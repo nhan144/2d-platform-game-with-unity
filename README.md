@@ -6,7 +6,7 @@ Asset:
 - The art asset is: Pixel Adventure from free [Pixel Frog assets collection](https://pixelfrog-assets.itch.io/)
 - Audio made with [jsfxr](https://sfxr.me/)
 
-## Some screenshot:
+## Ingame video:
 
 https://user-images.githubusercontent.com/61089859/173851527-068da315-f603-46d4-b03f-214469606d63.mp4
 
