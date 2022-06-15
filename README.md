@@ -1,7 +1,7 @@
 ﻿# 2d-platform-game-with-unity
 # About this project
 It's my first game application that i made with Unity Game Engine.
-I learn coding from Unity course and youtube channel [Brackeys](https://www.youtube.com/c/Brackeys).
+I learn the most coding stuff from Unity course and youtube channel [Brackeys](https://www.youtube.com/c/Brackeys).
 
 https://user-images.githubusercontent.com/61089859/173851527-068da315-f603-46d4-b03f-214469606d63.mp4
 
