@@ -3,7 +3,7 @@
 It's my first game application that i made with Unity Game Engine.
 I learn the most coding stuff from Unity course and youtube channel [Brackeys](https://www.youtube.com/c/Brackeys).
 ## Asset:
-- The art asset is: Pixel Adventure from free [Pixel Frog assets collection](https://pixelfrog-assets.itch.io/)
+- The art asset is: Pixel Adventure from [Pixel Frog assets collection](https://pixelfrog-assets.itch.io/)
 - Audio made with [jsfxr](https://sfxr.me/)
 
 ## Ingame video:
